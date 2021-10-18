@@ -1,0 +1,3 @@
+Here is the sample
+text stored in this file
+Reading from java
